@@ -1,0 +1,11 @@
+{
+  "org": "pyca",
+  "repo": "service-identity",
+  "versions": [
+    {
+      "commit": "6858d01dd8368ce4530ab776092bab50f899d510",
+      "tag": "",
+      "parsed_at": "2026-10-12T03:01:41.752886+00:00"
+    }
+  ]
+}
